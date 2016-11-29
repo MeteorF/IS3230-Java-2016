@@ -1,0 +1,8 @@
+To change the target directory, (make sure you have copy the entire folder to the below location)
+cd C:\IS3230
+
+To compile all classes:
+javac Project3230.java
+
+To Run the program (make sure you have complied before, and see there are .class in the folder)
+java Project3230 1900-01-01 2016-11-11

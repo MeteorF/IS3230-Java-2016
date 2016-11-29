@@ -1,0 +1,9 @@
+config.txt saves the 3 values
+1. debugMode on/off
+2. raw data file directory
+3. raw data file name
+
+for debug mode, it is used to ensure the algorithm of program is correct.
+especially for the pattern Bullish Kicker, in order to test the algorithm is correct,
+it needs either (1)modidy the data (please use "data/0005_modified_to_check_bullish_kicker.csv")
+or (2)check with Micrsoft excel's formula (please see the files in "excel analysis")
